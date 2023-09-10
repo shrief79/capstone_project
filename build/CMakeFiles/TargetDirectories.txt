@@ -1,0 +1,8 @@
+/home/shrief/Desktop/FINAL_project/build/CMakeFiles/msgque_lib.dir
+/home/shrief/Desktop/FINAL_project/build/CMakeFiles/lib_math.dir
+/home/shrief/Desktop/FINAL_project/build/CMakeFiles/TCP.dir
+/home/shrief/Desktop/FINAL_project/build/CMakeFiles/daemon_logger.dir
+/home/shrief/Desktop/FINAL_project/build/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/FINAL_project/build/CMakeFiles/rebuild_cache.dir
+/home/shrief/Desktop/FINAL_project/build/lib/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/FINAL_project/build/lib/CMakeFiles/rebuild_cache.dir

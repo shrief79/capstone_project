@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TCP.dir/socket/machine.cpp.o -o TCP 

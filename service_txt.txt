@@ -1,0 +1,12 @@
+[Unit]
+Description=My Daemon Logger Service
+After=network.target
+
+[Service]
+ExecStart=/put/your/path/to/the/executable/FINAL_project/build/daemon_logger
+Restart=always
+presistent=true
+
+
+[Install]
+WantedBy=multitarget.target

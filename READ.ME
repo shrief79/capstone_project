@@ -1,0 +1,23 @@
+please check the screenshots first to assure that the project is working..it has the dates ,i improved the quality in another commit in 5/9 to be honest but i have not changed any thing more than comments and fixed some bugs..thank you 
+
+note that you can choose the simple logger sync. with a macro in the simpleLogger.hpp file
+ 
+to test the project: 
+
+1)change the "LOGFILE" macro in the simpleLogger.hpp to your path
+
+2)change the  "CONFIGFILE" macro in the simpleLogger.hpp to your path
+
+3) in the build directory run commands 
+	a) cmake ..
+	b) make
+
+4)copy the service.txt to the systemd serivces path after changing the "ExecStart=/put/your/path/to/the/executable/FINAL_project/build/daemon_logger" to the correct path 
+
+
+5)in the build directory open 3 terminals to test the code and run commands
+	a)./TCP
+	b)./daemon_logger
+	c)./lib_math 5 + 5
+	
+6)the logs will be written in the log file and if reached the 1024 kb it would be copied to a file in the logs directory with its numbers and dates  with a file size 1024 kb

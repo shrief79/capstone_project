@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libmsgque_lib.so -o libmsgque_lib.so CMakeFiles/msgque_lib.dir/lib/MsgQue_lib.cpp.o 
